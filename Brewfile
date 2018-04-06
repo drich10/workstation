@@ -24,6 +24,7 @@ brew 'neovim'
 brew 'watch'
 brew 'wget'
 brew 'dep'
+brew 'direnv'
 
 brew 'postgresql'
 brew 'npm'
